@@ -15,5 +15,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg/1200px-Adobe-premiere-pro-cc-1430-vector-svg-.svg.png" alt="premiere-pro" width="40" height="40">
 </p>
 <h3>
-And here is my [YouTube](https://www.youtube.com/@sn1pe1t) channel with some projects
+And here is my YouTube] channel with some projects
+[Sn1pe1t](https://www.youtube.com/@sn1pe1t)
 <h3>
